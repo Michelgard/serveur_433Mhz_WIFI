@@ -14,4 +14,4 @@ Serveur domotique en 433Mhz avec WIFI avec deux composants et trois fils
  
  # Utilisation
  
- Il faut metrre dans l'auduino un des deux programme 
+ Il faut confogurer le programme Arduino avec les deux librairies Rcswitch et 
