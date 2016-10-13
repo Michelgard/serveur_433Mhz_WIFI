@@ -18,7 +18,8 @@ Il faut configurer le programme Arduino avec les deux librairies Rcswitch et ESP
 - Start Arduino and open Preferences window.
 - Enter ```http://arduino.esp8266.com/stable/package_esp8266com_index.json``` into *Additional Board Manager URLs* field. You can add multiple URLs, separating them with commas.
 - Open Boards Manager from Tools > Board menu and install *esp8266* platform (and don't forget to select your ESP8266 board from Tools > Board menu after installation).
-  Voir tout cela ici : https://github.com/esp8266/Arduino#installing-with-boards-manager
+
+Voir tout cela ici : https://github.com/esp8266/Arduino#installing-with-boards-manager
   
 Ensuite téléverser l'un des deux programmes ci-joint. Les deux sont identiques l'un plus simple que l'autre.
   
