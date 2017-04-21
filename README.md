@@ -18,4 +18,4 @@ Voir tout cela ici : https://github.com/esp8266/Arduino#installing-with-boards-m
   
 Ensuite téléverser l'un des deux programmes ci-joint. Les deux sont identiques l'un plus simple que l'autre.
   
-Une fois alimenté vous avez un serveur domotique en 433Mhz. Vous trouverez dans mon blog http://raspi.fr.nf rubrique domotique les exemples pour le commander via page une web et/ou commande vocale.
+Une fois alimenté vous avez un serveur domotique en 433Mhz. Vous trouverez dans mon blog https://www.blog-de-michel.fr rubrique domotique les exemples pour le commander via page une web et/ou commande vocale.
